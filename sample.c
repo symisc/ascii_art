@@ -8,6 +8,7 @@
  * If you get a compile-time error, that mean that the `ascii_art.hex` model is missing.
  * Download it from: https://pixlab.io/art
  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "ascii_art.h"
