@@ -1,3 +1,13 @@
+/*
+ * Compile this file together with the ASCII Art source code
+ * to generate the executable. For example: 
+ *
+ *  gcc -W -Wall -O6 ascii_art.c sample.c -o ascii
+ * ./ascii test.png
+ *
+ * If you get a compile-time error, that mean that the `ascii_art.hex` model is missing.
+ * Download it from: https://pixlab.io/art
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "ascii_art.h"
