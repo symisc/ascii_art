@@ -6,7 +6,7 @@
 * ./ascii test.png
 *
 * ART_ENABLE_STB_IMAGE directive must be defined in order to load images from disk.
-* Otherwise you have to rely on external libraries such as OpenCV to load the target images.
+* Otherwise you have to rely on an external library such as OpenCV to load the target images.
 *
 * If you get a compile-time error, it means that the `ascii_art.hex` model is missing.
 * Download it from: https://pixlab.io/art
