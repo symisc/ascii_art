@@ -13,7 +13,7 @@
 */
 #include <stdio.h>
 #include <stdlib.h>
-#include "ascii_art/ascii_art.h"
+#include "ascii_art.h"
 
 int main(int argc, char **argv) {
 	ascii_render sRender; /* Stack allocated */
