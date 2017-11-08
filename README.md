@@ -52,7 +52,7 @@ free(zText);
 free(zBlob);
 ```
 sample.c [source code](https://github.com/symisc/ascii_art/blob/master/sample.c)
-
+# Resources
 * The C/C++ API reference (Only three interfaces are exported plus another optional), the hex model are all available on the official PixLab page at: https://pixlab.io/art
 * The live demo: https://art.pixlab.io
 * Please report any issue or feature request here on Github. 
