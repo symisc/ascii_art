@@ -2,6 +2,7 @@
 ### Real-Time ASCII Art Rendering Library - Live demo: https://art.pixlab.io
 
 ASCII Art is a single file C/C++ library that let you transform an input image or video frame into printable ASCII characters at real-time using a single decision tree. Real-time performance is achieved by using pixel intensity comparison inside internal nodes of the tree.
+
 For a general overview on how the algorithm works, check the bottom of the [demo page](https://art.pixlab.io/#algo).
 
 ![Output](https://i.imgur.com/cdJBzXI.png)
