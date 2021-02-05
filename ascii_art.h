@@ -1,7 +1,7 @@
 /*
 * ASCII Art: Real-time ASCII Art Rendering Library.
 * Copyright (C) PixLab. https://pixlab.io/art
-* Version 1.2
+* Version 1.3
 * For information on licensing, redistribution of this file, and for a DISCLAIMER OF ALL WARRANTIES
 * please contact:
 *       support@pixlab.io
