@@ -12,7 +12,6 @@ ASCII art is a related (and older) graphic design technique for producing images
 
 >N. Markus, M. Fratarcangeli, I. S. Pandzic and J. Ahlberg, "Fast Rendering of Image Mosaics and ASCII Art", Computer Graphics Forum, 2015, <http://dx.doi.org/10.1111/cgf.12597>
 
-![Ribery](https://i.imgur.com/gCIkwDp.png)
 
 # Getting started
 
